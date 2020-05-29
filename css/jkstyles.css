@@ -1,12 +1,10 @@
 
 .my-class {
     margin: 3px;
-    border: 5px color lightcoral;
-    padding: 1px;
 }
 
 h1 {
-  float: center;
+  float: right;
   font-size: 60px;
   font-stretch: semi-expanded;
   font-weight: bolder;
@@ -18,16 +16,12 @@ img {
 
 body {
   font-family: Georgia, 'Times New Roman', Times, serif;
-  background-color: honeydew;
-  background-color: webkit-gradient(honeydew);
+  font-size: 15px;
 }
 
-.photo {
-  background-color: ivory;
-}
 
 .container {
-  background-color: lavender;
+  background-color: 
   float: right;
 }
 
