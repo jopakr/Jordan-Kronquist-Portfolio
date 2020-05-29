@@ -1,26 +1,52 @@
 h1 {
-    font-size: larger;
-    font-stretch: semi-expanded;
-    font-weight: bolder;
-    font-style: unset;
-    color: rgb(214, 165, 40);
+  float: center;
+  font-size: 60px;
+  font-stretch: semi-expanded;
+  font-weight: bolder;
 }
 
 img {
-    float: left;
+  float: left;
 }
 
 body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: honeydew;
-    background-color: -webkit-gradient(honeydew);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: honeydew;
+  background-color: webkit-gradient(honeydew);
 }
 
 .photo {
-    background-color: ivory;
+  background-color: ivory;
 }
 
 .container {
-    background-color: lavender;
-    
+  background-color: lavender;
+  float: right;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+h3 {
+  font-size: 30px;  
+  font-weight: bolder;
+}
+
+.hightlight {
+    font-weight: bolder;
+}
+
+.jumbotron {
+    float: right;
+}
+
+.sidebar {
+  float: left;
+}
+
+h4 {
+    font-size: 30px;
+    font-weight: bolder;
 }
