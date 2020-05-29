@@ -5,3 +5,12 @@ h1 {
     font-style: unset;
     color: rgb(214, 165, 40);
 }
+
+img {
+    float: left;
+}
+
+body {
+    background-color: honeydew;
+    background-color: -webkit-gradient(honeydew);
+}
