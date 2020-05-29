@@ -12,6 +12,7 @@ h1 {
 
 img {
   float: left;
+  resize: unset;
 }
 
 body {
