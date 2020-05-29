@@ -11,6 +11,12 @@ img {
 }
 
 body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: honeydew;
     background-color: -webkit-gradient(honeydew);
 }
+
+.photo {
+    background-color: ivory;
+}
+
