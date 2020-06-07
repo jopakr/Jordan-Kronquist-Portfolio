@@ -1,34 +1,42 @@
-# _PORTFOLIO PORJECT_
+# _INDEPENDENT PROJECT_
 
-#### _First Prject for Epicodus, .2020_
+#### _Week One Independent Project_
 
-#### By _**jorda k**_
+#### By _**Jordan Kronquist**_
 
 ## Description
 
-_This is a Portfolio page meant to showcase my work during my time at Epicodus so far, and also tell viewers briefly about my experience._
+_This is a Portfolio Landing Page that will introduce myself and a little background information about me and my life story, thus far. It will also indicate that I have successfully shown my understanding of:_
 
-## Setup/Installation Requirements
+* HTML
+* CSS
+* GitHub
 
-* _All content is contained in GitHub folder_
-* _Page can be viewed through the following GitHub Pages link:_
-* _https://.github.io/portfolio_
+## Setup & Installation Requirements:
+
+* _All content is contained in GitHub folder:_
+* _Jordan-Kronquist-Portfolio_
+
+* _View website through the following GitHub Pages link:_
+* _https://github.com/jopakr/Jordan-Kronquist-Portfolio.git_
 
 
-## Known Bugs
+## Known Bugs-
 
-_No known bugs at this time_
+_No known bugs._
 
 ## Support and contact details
 
-* __
-* _@gmail.com_
+* _Jordan Kronquist_
+* _jpkronquist@gmail.com_
 
-## Technologies Used
+## Technologies Used-
 
-_Site was built using Bootstrap 3.5.1 classes through a custom-made CSS stylesheet._
+_Website was constructed using Bootstrap 3.3.7 classes and a programmer designed CSS stylesheet._
+
+_HTML was used in the creation of this landing page._
 
 ### License
 
-*This software is licensed under the MIT license*
-
+*Bootstrap software is licensed under the MIT license*
+*HTML is maintained by WHATWG and W3C.
