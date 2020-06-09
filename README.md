@@ -18,7 +18,7 @@ _This is a Portfolio Landing Page that will introduce myself and a little backgr
 * _Jordan-Kronquist-Portfolio_
 
 * _View website through the following GitHub Pages link:_
-* _https://github.com/jopakr/Jordan-Kronquist-Portfolio.git_
+* _https://github.com/jopakr/Jordan-Kronquist-Portfolio_
 
 
 ## Known Bugs-
